@@ -4,7 +4,7 @@ A simple WhatsApp User bot.
 
 ## Setup
 
-### 1. Deploy on Heroku
+### 1. Deploy on Heroku.
 
 1. **Scan QR Code:**
    - Click [SCAN](https://qr-hazel-alpha.vercel.app/md) and scan the QR code through the "WhatsApp Linked Devices" option in your WhatsApp app.
